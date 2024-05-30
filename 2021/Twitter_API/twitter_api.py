@@ -1,4 +1,4 @@
-import tweepy
+import tweep
 import configparser
 import pandas as pd
 
